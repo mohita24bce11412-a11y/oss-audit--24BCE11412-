@@ -70,7 +70,7 @@ All scripts are designed to run on a standard Linux system with bash. No externa
  
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/Mohita-Vi/oss-audit-24MIM10257.git
+git clone (https://github.com/mohita24bce11412-a11y/oss-audit--24BCE11412-.git)
 cd oss-audit-24BCE11412
 ```
  
