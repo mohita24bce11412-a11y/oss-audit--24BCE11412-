@@ -5,8 +5,8 @@
  
 | Field | Details |
 |-------|---------|
-| **Student Name** | Harshit Singh |
-| **Registration Number** | 24MIM10257 |
+| **Student Name** | Mohita Nagar |
+| **Registration Number** | 24BCE11412 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python Programming Language |
 | **License** | PSF License v2 |
